@@ -1,0 +1,11 @@
+Android-12-BSP/H618-Android12-Src.tar.xz.part_00 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_02 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_04 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_05 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_07 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_09 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_01 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_03 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_06 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_08 filter=lfs diff=lfs merge=lfs -text
+Android-12-BSP/H618-Android12-Src.tar.xz.part_10 filter=lfs diff=lfs merge=lfs -text
